@@ -15,7 +15,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "semantic-release": "semantic-release"
+    "noop": ":",
+    "semantic-release": "semantic-release",
+    "test": "yarn noop"
   },
   "engines": {
     "node": ">=18.0.0"
