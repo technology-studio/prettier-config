@@ -23,7 +23,7 @@
     "node": ">=18.0.0"
   },
   "devDependencies": {
-    "@txo/commitlint": "^1.0.15",
+    "@txo/commitlint": "^1.0.16",
     "@txo/semantic-release": "^2.0.8"
   },
   "dependencies": {
