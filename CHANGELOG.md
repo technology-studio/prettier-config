@@ -1,3 +1,16 @@
+## [1.1.5](https://github.com/technology-studio/prettier-config/compare/v1.1.4...v1.1.5) (2024-11-26)
+
+
+### CI
+
+* add synchronize to PR workflow ([#13](https://github.com/technology-studio/prettier-config/issues/13)) ([c97099e](https://github.com/technology-studio/prettier-config/commit/c97099ed16e2ddac9e4de1f84b49905e379215e5))
+* update pr and release workflows ([#12](https://github.com/technology-studio/prettier-config/issues/12)) ([2b6b7bf](https://github.com/technology-studio/prettier-config/commit/2b6b7bf2c66f8f3e7c00bb8d5d7eaa5c87964db9))
+
+
+### Bug fixes
+
+* **deps:** update dependency prettier to ^3.4.0 ([#17](https://github.com/technology-studio/prettier-config/issues/17)) ([b01f340](https://github.com/technology-studio/prettier-config/commit/b01f3406509b0453beab480d19c436121fbaa3c2))
+
 ## [1.1.4](https://github.com/technology-studio/prettier-config/compare/v1.1.3...v1.1.4) (2024-07-13)
 
 
