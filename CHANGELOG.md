@@ -1,3 +1,10 @@
+## [1.1.10](https://github.com/technology-studio/prettier-config/compare/v1.1.9...v1.1.10) (2025-02-22)
+
+
+### Bug fixes
+
+* **deps:** update dependency prettier to ^3.5.2 ([#24](https://github.com/technology-studio/prettier-config/issues/24)) ([9b36e65](https://github.com/technology-studio/prettier-config/commit/9b36e650ef0bae92012fa7829d94a94988104844))
+
 ## [1.1.9](https://github.com/technology-studio/prettier-config/compare/v1.1.8...v1.1.9) (2025-02-13)
 
 
