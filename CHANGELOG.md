@@ -1,3 +1,15 @@
+## [1.1.15](https://github.com/technology-studio/prettier-config/compare/v1.1.14...v1.1.15) (2025-11-30)
+
+
+### CI
+
+* add pr.yml permissions ([#30](https://github.com/technology-studio/prettier-config/issues/30)) ([1128fa2](https://github.com/technology-studio/prettier-config/commit/1128fa2a143db8925cfd4abe74a2973e137ac1ba))
+
+
+### Bug fixes
+
+* **deps:** update dependency prettier to ^3.7.1 ([#31](https://github.com/technology-studio/prettier-config/issues/31)) ([eabdd6a](https://github.com/technology-studio/prettier-config/commit/eabdd6a85b8c070641eda0f128542f15d6eea230))
+
 ## [1.1.14](https://github.com/technology-studio/prettier-config/compare/v1.1.13...v1.1.14) (2025-06-27)
 
 
