@@ -1,3 +1,11 @@
+## [1.1.18](https://github.com/technology-studio/prettier-config/compare/v1.1.17...v1.1.18) (2026-03-15)
+
+### Bug fixes
+
+* **deps:** update dependency prettier to ^3.7.4 ([#34](https://github.com/technology-studio/prettier-config/issues/34)) ([60d9776](https://github.com/technology-studio/prettier-config/commit/60d9776b04df26aab474eac7bc6d1dd972a8ffeb))
+* **deps:** update dependency prettier to ^3.8.0 ([#36](https://github.com/technology-studio/prettier-config/issues/36)) ([beb7e65](https://github.com/technology-studio/prettier-config/commit/beb7e659d7b0fb70cf72e4531d3dc956d7c4c604))
+* **deps:** update dependency prettier to ^3.8.1 ([#37](https://github.com/technology-studio/prettier-config/issues/37)) ([584a7eb](https://github.com/technology-studio/prettier-config/commit/584a7eb40ca03812397a4a363f1711ffa255e9bf))
+
 ## [1.1.17](https://github.com/technology-studio/prettier-config/compare/v1.1.16...v1.1.17) (2025-12-02)
 
 
