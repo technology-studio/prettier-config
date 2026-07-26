@@ -1,6 +1,6 @@
 {
   "name": "@txo/prettier-config",
-  "version": "1.1.21",
+  "version": "1.1.22",
   "description": "Technology Studio - Prettier config",
   "main": "index.json",
   "repository": {
