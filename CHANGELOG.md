@@ -1,3 +1,5 @@
+## [1.1.23](https://github.com/technology-studio/prettier-config/compare/v1.1.22...v1.1.23) (2026-07-27)
+
 ## [1.1.22](https://github.com/technology-studio/prettier-config/compare/v1.1.21...v1.1.22) (2026-07-26)
 
 ### Bug fixes
