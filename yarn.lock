@@ -204,6 +204,11 @@
     "@types/conventional-commits-parser" "^5.0.0"
     chalk "^5.3.0"
 
+"@conventional-changelog/template@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@conventional-changelog/template/-/template-1.2.1.tgz#8f673635d6ec8289bc5d5a1264629fd1e88b8d4f"
+  integrity sha512-TzlTVpKPjaqW6qOYjQcYUDuGsLCNsvFHVBXkYGTAnf5V37jCWrE5haKNXzz0WZUtVHjrpV76L1buANjwXMfT8w==
+
 "@gar/promise-retry@^1.0.0":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@gar/promise-retry/-/promise-retry-1.0.2.tgz#90d01966a7fcb270ce6fb4211405ab828ae6e036"
@@ -703,14 +708,14 @@
     "@commitlint/config-conventional" "^19.7.1"
     commitizen "^4.3.1"
 
-"@txo/semantic-release@^2.0.17":
-  version "2.0.17"
-  resolved "https://registry.yarnpkg.com/@txo/semantic-release/-/semantic-release-2.0.17.tgz#ec6218502ad215c9fe0f022d4b3e9fc02565421e"
-  integrity sha512-CftBIvbFBf4jbBlxYOQnq+J1HCqasY0iVI0kGMOGRFzsH2liEpmoJhaSsPdTxfU4mnGaC0XnuWqsEnm0kL7T/A==
+"@txo/semantic-release@^2.0.18":
+  version "2.0.18"
+  resolved "https://registry.yarnpkg.com/@txo/semantic-release/-/semantic-release-2.0.18.tgz#122e921b5f5bee68b6800769f1c1acf0bbc1e93d"
+  integrity sha512-KbqNj9elrSAV4ImUT5O2eCOYbLasJNNsQHIoFg95RP1yNKiZ9SQyjBZhkWp0havD3WBySq8c62JCGLluS8sViQ==
   dependencies:
     "@semantic-release/changelog" "^6.0.3"
     "@semantic-release/git" "^10.0.1"
-    conventional-changelog-conventionalcommits "^9.3.1"
+    conventional-changelog-conventionalcommits "^10.0.0"
     semantic-release "^25.0.5"
     semantic-release-slack-bot "^4.0.2"
 
@@ -1259,17 +1264,17 @@ conventional-changelog-angular@^8.0.0:
   dependencies:
     compare-func "^2.0.0"
 
+conventional-changelog-conventionalcommits@^10.0.0:
+  version "10.2.1"
+  resolved "https://registry.yarnpkg.com/conventional-changelog-conventionalcommits/-/conventional-changelog-conventionalcommits-10.2.1.tgz#dfa7cd9b3c6762bc65b2e7c97636097a3b426217"
+  integrity sha512-n4Kr1HFMTf3iMbES0TMxKIcYtUUv4rKqyQQp2JwfOEfFCOfGT3Tq4mCyJ8S9/YPyWhydjfKrrvnyl+gCjA+mJQ==
+  dependencies:
+    "@conventional-changelog/template" "^1.2.1"
+
 conventional-changelog-conventionalcommits@^7.0.2:
   version "7.0.2"
   resolved "https://registry.yarnpkg.com/conventional-changelog-conventionalcommits/-/conventional-changelog-conventionalcommits-7.0.2.tgz#aa5da0f1b2543094889e8cf7616ebe1a8f5c70d5"
   integrity sha512-NKXYmMR/Hr1DevQegFB4MwfM5Vv0m4UIxKZTTYuD98lpTknaZlSRrDOG4X7wIXpGkfsYxZTghUN+Qq+T0YQI7w==
-  dependencies:
-    compare-func "^2.0.0"
-
-conventional-changelog-conventionalcommits@^9.3.1:
-  version "9.3.1"
-  resolved "https://registry.yarnpkg.com/conventional-changelog-conventionalcommits/-/conventional-changelog-conventionalcommits-9.3.1.tgz#14f2dd65ccc5de09322a7eb0159f3e0259d7399c"
-  integrity sha512-dTYtpIacRpcZgrvBYvBfArMmK2xvIpv2TaxM0/ZI5CBtNUzvF2x0t15HsbRABWprS6UPmvj+PzHVjSx4qAVKyw==
   dependencies:
     compare-func "^2.0.0"
 
