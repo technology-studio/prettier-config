@@ -1,3 +1,5 @@
+## [1.1.25](https://github.com/technology-studio/prettier-config/compare/v1.1.24...v1.1.25) (2026-07-29)
+
 ## [1.1.24](https://github.com/technology-studio/prettier-config/compare/v1.1.23...v1.1.24) (2026-07-28)
 
 ## [1.1.23](https://github.com/technology-studio/prettier-config/compare/v1.1.22...v1.1.23) (2026-07-27)
