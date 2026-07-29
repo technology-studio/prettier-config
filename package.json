@@ -27,6 +27,6 @@
     "@txo/semantic-release": "^2.0.19"
   },
   "dependencies": {
-    "prettier": "^3.9.1"
+    "prettier": "^3.9.3"
   }
 }
