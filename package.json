@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@txo/commitlint": "^1.0.22",
-    "@txo/semantic-release": "^2.1.5"
+    "@txo/semantic-release": "^2.1.6"
   },
   "dependencies": {
     "prettier": "^3.9.6"
